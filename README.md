@@ -2,6 +2,7 @@
 
 - Solve VPP (Vehicle platooning problem) using PuLP
 
+![figure](output.png)
 
 ## References
 
